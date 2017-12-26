@@ -2,8 +2,8 @@ package table
 
 import (
 	"fmt"
-	iutil "github.com/june-twenty/go-utils/intutil"
-	sutil "github.com/june-twenty/go-utils/stringutil"
+	iutil "github.com/hidaiy/go-utils/intutil"
+	sutil "github.com/hidaiy/go-utils/stringutil"
 	"strings"
 )
 
